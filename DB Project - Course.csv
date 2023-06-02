@@ -1,0 +1,49 @@
+CourseID,CourseCode,CDescription,CreditHours,Semester Offered,PreRequisiteID
+1,CL1002,Programming Fundamentals,1,First,3
+2,EL1005,Digital Logic Design Lab,2,Second,3
+3,MT1006,Differential Equations,2,Second,3
+4,CS2001,Data Structures,2,Third,3
+5,CS1005,Discrete Structures,3,Third,2
+6,CS2005,Database Systems,3,Fourth,2
+7,CL2005,Database Systems Lab,1,Fourth,2
+8,CL2006,Operating Systems Lab,1,Fourth,2
+9,CS2006,Operating Systems,3,Fourth,1
+10,MT1003,Calculus,2,First,1
+11,SS1003,Pakistan Studies,2,Second,1
+12,SS1008,Communication and Presentation Skills,2,Second,NULL
+13,SL1008,Communication and Presentation Skills Lab,2,Second,NULL
+14,CS1002,Programming Fundamentals,3,First,NULL
+15,CS1004,Object Oriented Programming,3,Second,NULL
+16,CL1004,Object Oriented Programming Lab,1,Second,NULL
+17,CL2001,Data Structures Lab,1,Third,NULL
+18,CS2001,Data Structures,2,Third,NULL
+19,CL1002,Programming Fundamentals lab,1,First,NULL
+20,EL1005,Digital Logic Design Lab,2,Second,NULL
+21,MT1006,Differential Equations,2,Second,NULL
+22,CS2001,Data Structures,2,Third,NULL
+23,CS1005,Discrete Structures,3,Third,NULL
+24,CS2005,Database Systems ,3,Fourth,NULL
+25,CL2005,Database Systems Lab,1,Fourth,NULL
+26,CL2006,Operating Systems,1,Fourth,NULL
+27,CS2006,Operating Systems,3,Fourth,NULL
+28,MT1003,Calculus,2,First,NULL
+29,SS1003,Pakistan Studies,2,Second,NULL
+30,SS1008,Communication and Presentation Skills ,2,Second,NULL
+31,SL1008,Programming Fundamentals,2,First,NULL
+32,CS1002,Object Oriented Programming,3,Second,NULL
+33,CS1004,Object Oriented Programming Lab,3,Second,NULL
+34,CL1004,Data Structures Lab,1,Third,NULL
+35,CL2001,Programming Fundamentals,1,First,NULL
+36,CS2001,Digital Logic Design Lab,2,Second,NULL
+37,CL1002,Differential Equations,1,Second,NULL
+38,EL1005,Data Structures,2,Third,NULL
+39,MT1006,Discrete Structures,2,Third,NULL
+40,CS2001,Data Structures,2,Third,NULL
+41,CS1005,Discrete Structures,3,Third,NULL
+42,CS2005,Database Systems ,3,Fourth,NULL
+43,CL2005,Database Systems Lab,1,Fourth,4
+44,CL2006,Operating Systems Lab,1,Fourth,5
+45,CS2006,Operating Systems ,3,Fourth,3
+46,MT1003,Calculus,2,First,2
+47,SS1003,Pakistan Studies,2,Second,7
+48,SS1008,Communication and Presentation Skills,3,Second,6
